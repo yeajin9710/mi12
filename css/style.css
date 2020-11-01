@@ -100,7 +100,7 @@ header a, a:visited {
 }
 
 .clouds{
-    background:transparent url(http://www.script-tutorials.com/demos/360/images/clouds3.png) repeat top center;
+    background:transparent url(file:///C:/Users/YANG/Desktop/%ED%95%99%EA%B5%90/2020%202%ED%95%99%EA%B8%B0/%EC%9D%B8%ED%84%B0%EB%A0%89%ED%8B%B0%EB%B8%8C/%EC%A4%91%EA%B0%84/1.png) repeat top center;
     z-index:3;
 
   -moz-animation:move-clouds-back 200s linear infinite;
